@@ -4,4 +4,3 @@ class Person
     hash.send(key= ,value)
   end
 end
-
